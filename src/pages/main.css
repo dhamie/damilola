@@ -1,0 +1,68 @@
+body{
+	margin: 0;
+	padding: 2%;
+	background: #111;
+	/*background-image: url(assets/bg1.PNG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top center;*/
+	color: white;
+}
+
+.nav-link{
+	color: white;
+}
+
+ul{
+	list-style: ;
+}
+
+.skills{
+	height: 210px;
+}
+
+
+a:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.lpd{
+	/*background: url('assets/bg.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: top;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 90vh;*/
+	padding-top: 4%;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+#landingbigtext{
+	color: white;
+	font-size: 9vmax;
+}
+
+#landingsmalltext{
+	color: white;
+	margin: 0;
+	font-size: 2.5vmax;
+	padding: 0;
+}
+
+.quote{
+	color: white;
+	margin-top: 2%;
+}
+
+.highlight{
+	background: white;
+	color: #0078D7;
+}
+
+.row, .col-lg-4{
+	padding: 1%;
+}
+
