@@ -15,7 +15,7 @@ class Images extends Component {
 
   		},
   		{
-  			item1: 'rand/robot1.png',
+  			item1: 'rand/robot1.PNG',
   			item2: 'fff',
         item3: 'https://www.instagram.com/p/BUbXipYFwH4/?utm_source=ig_web_copy_link'
 
@@ -27,12 +27,12 @@ class Images extends Component {
 
   		},
   		{
-  			item1: 'rand/astronut.jpg',
+  			item1: 'rand/astronut.JPG',
   			item2: 'fff',
 
   		},
       {
-  			item1: 'rand/bg1.png',
+  			item1: 'rand/bg1.PNG',
   			item2: 'fff',
         item3: 'https://www.instagram.com/p/Bu6kQHplZ17/?utm_source=ig_web_copy_link'
   		}
