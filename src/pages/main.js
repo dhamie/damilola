@@ -10,10 +10,10 @@ const Main = () => {
 	return (
 
 		<Switch>
-		 <Route exact path="/" component={Landing} />
-		 <Route exact path="/about" component={About} />
-		 <Route exact path="/portfolio" component={Portfolio} />
-		 <Route exact path="/images" component={Images} />
+		 <Route exact path="/damilola/" component={Landing} />
+		 <Route exact path="/damilola/about" component={About} />
+		 <Route exact path="/damilola/portfolio" component={Portfolio} />
+		 <Route exact path="/damilola/images" component={Images} />
 		</Switch>
 	);
 }
