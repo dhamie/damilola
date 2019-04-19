@@ -8,6 +8,7 @@ import Images from './images.js';
 
 const Main = () => {
 	return (
+
 		<Switch>
 		 <Route exact path="/" component={Landing} />
 		 <Route exact path="/about" component={About} />
