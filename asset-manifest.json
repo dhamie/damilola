@@ -1,5 +1,5 @@
 {
-  "main.css": "/damilola/static/css/main.b4b1843c.chunk.css",
+  "main.css": "/damilola/static/css/main.7f490e1d.chunk.css",
   "main.js": "/damilola/static/js/main.7c56c679.chunk.js",
   "main.js.map": "/damilola/static/js/main.7c56c679.chunk.js.map",
   "runtime~main.js": "/damilola/static/js/runtime~main.36032dfa.js",
@@ -8,8 +8,8 @@
   "static/js/2.47e83f28.chunk.js": "/damilola/static/js/2.47e83f28.chunk.js",
   "static/js/2.47e83f28.chunk.js.map": "/damilola/static/js/2.47e83f28.chunk.js.map",
   "index.html": "/damilola/index.html",
-  "precache-manifest.c25befdeb27943568de037d228023d77.js": "/damilola/precache-manifest.c25befdeb27943568de037d228023d77.js",
+  "precache-manifest.44e8d9541beabb6b499898a16f5b2b80.js": "/damilola/precache-manifest.44e8d9541beabb6b499898a16f5b2b80.js",
   "service-worker.js": "/damilola/service-worker.js",
   "static/css/2.00013f1d.chunk.css.map": "/damilola/static/css/2.00013f1d.chunk.css.map",
-  "static/css/main.b4b1843c.chunk.css.map": "/damilola/static/css/main.b4b1843c.chunk.css.map"
+  "static/css/main.7f490e1d.chunk.css.map": "/damilola/static/css/main.7f490e1d.chunk.css.map"
 }
