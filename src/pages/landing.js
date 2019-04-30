@@ -93,7 +93,7 @@ class Landing extends Component {
     return(
     	<React.Fragment>
 
-	      	<div className="text-monospace lpd">
+	      	<div className="text-monospace lpdn">
 	      		 <Typing  className="typewriter">
 		            <p id="landingbigtext"><mark className="highlight">Hello</mark> there!</p>
 		        </Typing>

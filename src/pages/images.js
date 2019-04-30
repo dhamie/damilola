@@ -40,7 +40,7 @@ class Images extends Component {
   	];
 
     return(
-      <div className="container-fluid">
+      <div className="container-fluid text-monospace lpd">
 
       		<ShowImages characterData={characters} />
       </div>
