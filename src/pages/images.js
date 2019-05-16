@@ -35,7 +35,12 @@ class Images extends Component {
   			item1: 'rand/bg1.PNG',
   			item2: 'fff',
         item3: 'https://www.instagram.com/p/Bu6kQHplZ17/?utm_source=ig_web_copy_link'
-  		}
+  		},
+      {
+        item1: 'rand/lfc.PNG',
+        item2: 'fff',
+        item3: 'https://www.instagram.com/p/BxLSZ4rlAJv/'
+      }
 
   	];
 
