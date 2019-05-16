@@ -94,16 +94,17 @@ class Landing extends Component {
     	<React.Fragment>
 
 	      	<div className="text-monospace lpdn">
-	      		 <Typing  className="typewriter">
-		            <p id="landingbigtext"><mark className="highlight">Hello</mark> there!</p>
-		        </Typing>
+               <Typing  className="typewriter">
+                  <p id="landingbigtext"><mark className="highlight">Hello</mark> there!</p>
+              </Typing>
 
-		        {/*<p id="landingsmalltext">I'm Dami. Nice to meet you.</p>*/}
-		        <p className="quote">
-		            	<p>Random quote</p>
-		            	<Quotes />
-		            </p>
-	  		</div>
+              {/*<p id="landingsmalltext">I'm Dami. Nice to meet you.</p>*/}
+              <p className="quote">
+                    <p>Random quote</p>
+                    <Quotes />
+                  </p>
+          </div>
+        <div className="lpc"></div>
   		</React.Fragment>
 
     );
