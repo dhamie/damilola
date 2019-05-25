@@ -1,17 +1,72 @@
 import React, { Component } from 'react';
+import Masonry from 'react-masonry-component';
+
+
+const masonryOptions = {
+    transitionDuration: 0
+};
 
 class Portfolio extends Component {
   render() {
+  	const characters =  [
+  		{
+  			item1: 'rand/bg.jpg',
+  			item2: 'fff',
+  			item3: '#'	
+  		},
+  		{
+	  		item1: 'rand/designs/Frame.PNG',
+	  		item2: 'fff',
+	        item3: '#'
+
+  		},
+  		{
+	  		item1: 'rand/designs/pinnacle.png',
+	  		item2: 'fff',
+	        item3: '#'
+
+  		},
+  		{
+	  		item1: 'rand/designs/pinnacle1.png',
+	  		item2: 'fff',
+	        item3: '#'
+
+  		}
+
+  	];
+
     return(
-      <div className="text-monospace lpd">
-        loading...<br/>
-        <a href="https://github.com/dhamie">Github </a>
-        <a href="https://drive.google.com/file/d/1zV1ctN7-3VuGk096vdV5p4BojZxj5GaX/view?usp=sharing">CV </a>
+      <div className="container-fluid text-monospace lpd">
+	      <div className = "container-fluid">
+	      	<h1>Designs and Photos</h1>
+	      	<ShowImages characterData={characters} />
+	      </div>
+	      <div className = "container-fluid">
+	      	<h1>Sites, Apps and Games</h1>
+	        loading...<br/>
+	        <a href="https://github.com/dhamie">Github </a>
+	        <a href="https://drive.google.com/file/d/1zV1ctN7-3VuGk096vdV5p4BojZxj5GaX/view?usp=sharing">CV </a>
+	      </div>  
       </div>
 
 
     );
   }
 }
+
+ const ShowImages = props => {
+    const rows = props.characterData.map((row, index) => {
+        return (
+        	<React.Fragment>
+        		<div className='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
+            		<a href={row.item3}><img key={index} src={row.item1} alt={row.item2}  width='100%'/></a>
+            	</div>
+        	</React.Fragment>
+        );
+    });
+
+    return 	<Masonry>{rows}</Masonry>;
+}
+
 
 export default Portfolio;

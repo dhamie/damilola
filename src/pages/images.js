@@ -10,11 +10,6 @@ class Images extends Component {
 
   	const characters =  [
   		{
-  			item1: 'rand/bg.jpg',
-  			item2: 'fff',
-
-  		},
-  		{
   			item1: 'rand/robot1.PNG',
   			item2: 'fff',
         item3: 'https://www.instagram.com/p/BUbXipYFwH4/?utm_source=ig_web_copy_link'
@@ -68,4 +63,4 @@ class Images extends Component {
     return 	<Masonry>{rows}</Masonry>;
 }
 
-export default Images;
+export default Images; 
