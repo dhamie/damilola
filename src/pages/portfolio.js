@@ -15,7 +15,7 @@ class Portfolio extends Component {
   			item3: '#'	
   		},
   		{
-	  		item1: 'rand/designs/Frame.PNG',
+	  		item1: 'rand/designs/Frame.png',
 	  		item2: 'fff',
 	        item3: '#'
 
@@ -40,7 +40,7 @@ class Portfolio extends Component {
 	      <div className = "container-fluid">
 	      	<h1>Designs and Photos</h1>
 	      	<ShowImages characterData={characters} />
-	      </div>
+	      </div><br/>
 	      <div className = "container-fluid">
 	      	<h1>Sites, Apps and Games</h1>
 	        loading...<br/>
