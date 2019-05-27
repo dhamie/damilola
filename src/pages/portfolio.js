@@ -17,21 +17,28 @@ class Portfolio extends Component {
   		{
 	  		item1: 'rand/designs/Frame.png',
 	  		item2: 'fff',
-	        item3: '#'
-
+        item3: '#'
   		},
   		{
 	  		item1: 'rand/designs/pinnacle.png',
 	  		item2: 'fff',
-	        item3: '#'
-
+        item3: '#'
   		},
   		{
 	  		item1: 'rand/designs/pinnacle1.png',
 	  		item2: 'fff',
-	        item3: '#'
-
-  		}
+        item3: '#'
+  		},
+      {
+        item1: 'rand/designs/pain.png',
+        item2: 'fff',
+        item3: '#'
+      },
+      {
+        item1: 'rand/designs/naruto.png',
+        item2: 'fff',
+        item3: '#'
+      }
 
   	];
 
