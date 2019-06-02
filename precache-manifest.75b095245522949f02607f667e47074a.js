@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/damilola/static/js/runtime~main.36032dfa.js"
   },
   {
-    "revision": "86c41030cba9ba6762fd",
-    "url": "/damilola/static/js/main.816be886.chunk.js"
+    "revision": "ed5f78df875d49e2a464",
+    "url": "/damilola/static/js/main.5eb1fe30.chunk.js"
   },
   {
-    "revision": "de35a98b537b3289d9b8",
-    "url": "/damilola/static/js/2.83b7f209.chunk.js"
+    "revision": "f6797337bea99c08b1cc",
+    "url": "/damilola/static/js/2.27d01d10.chunk.js"
   },
   {
-    "revision": "86c41030cba9ba6762fd",
+    "revision": "ed5f78df875d49e2a464",
     "url": "/damilola/static/css/main.80c93b63.chunk.css"
   },
   {
-    "revision": "de35a98b537b3289d9b8",
+    "revision": "f6797337bea99c08b1cc",
     "url": "/damilola/static/css/2.00013f1d.chunk.css"
   },
   {
-    "revision": "0d44425d7356bc478eb04f02270a311f",
+    "revision": "e6fbc0994994af46c4f0b311a9c7bb47",
     "url": "/damilola/index.html"
   }
 ];
