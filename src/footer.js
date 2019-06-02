@@ -19,9 +19,8 @@ class Footer extends Component {
 
         return (
           <div id="footer">
-          <mark className="red"><Countdown date={1559415600000}> <Completionist /> </Countdown></mark><br/>
           <a href="http://www.logospng.com/uefa-champions-league.html"><img src='rand/uefa.png' alt="uefa" width='50px'/></a>
-          <span id="road"> Road to Madrid </span>
+          <span id="road"> UCL 2019 WINNER </span>
            <a href="http://www.logospng.com/liverpool-logo-ndash-escudo-football-club-63909-png.html"><img src='rand/liverpool.png' alt="liverpool" width='50px'/></a>
 
           </div>
