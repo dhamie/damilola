@@ -19,9 +19,9 @@ class Footer extends Component {
 
         return (
           <div id="footer" className="text-monospace">
-          <a href="http://www.logospng.com/uefa-champions-league.html"><img src='rand/uefa.png' alt="uefa" width='50px'/></a>
+          <a href="http://www.logospng.com/uefa-champions-league.html"><img src='rand/uefa.png' alt="uefa" width='40px'/></a>
           <span id="road"> UCL 2019 WINNER </span>
-           <a href="http://www.logospng.com/liverpool-logo-ndash-escudo-football-club-63909-png.html"><img src='rand/liverpool.png' alt="liverpool" width='50px'/></a><br/>
+           <a href="http://www.logospng.com/liverpool-logo-ndash-escudo-football-club-63909-png.html"><img src='rand/liverpool.png' alt="liverpool" width='40px'/></a><br/>
            <i id="road">(I'm Nigerian lol)</i>
 
           </div>
