@@ -11,6 +11,14 @@ Build your LEGACY"<br />
   			Severities should be dealt out all at once, so that their suddenness may give less offense;<br/>
   			benefits ought to be handed ought drop by drop, so that they may be relished the more."<br />
   			Niccolo Machiavelli
+
+"You could not live with your own failure. Where did that bring you? Back to me.<br/>
+        I thought by eliminating half of life, the other half would thrive. But you've shown me, that's impossible. <br/>
+        And as long as there are those that remember what was, there will always be those that are unable to accept what can be. They will resist.<br/>
+        I'm thankful. Because now, I know what I must do. I will shred this universe down to its last atom.<br/>
+        And then... With the stones you've collected for me, create a new one.<br/>
+        Teeming with life, but knows not what it has lost but only what it has been given. A grateful universe."<br/>
+        Thanos        
 */
 
 import React, { Component } from 'react';
@@ -77,13 +85,10 @@ const Contents =()=>{
 const Quotes = () =>{
   return(
   		<p><i>
-  		  "You could not live with your own failure. Where did that bring you? Back to me.<br/>
-        I thought by eliminating half of life, the other half would thrive. But you've shown me, that's impossible. <br/>
-        And as long as there are those that remember what was, there will always be those that are unable to accept what can be. They will resist.<br/>
-        I'm thankful. Because now, I know what I must do. I will shred this universe down to its last atom.<br/>
-        And then... With the stones you've collected for me, create a new one.<br/>
-        Teeming with life, but knows not what it has lost but only what it has been given. A grateful universe."<br/>
-        Thanos
+  		  "Oh, so you think darkness is your ally? But you merely adopted the dark. I was born in it, molded by it. <br/>
+        I didn’t see the light until I was already a man, by then to me it was only blinding. <br/>
+        The shadows betray you because they belong to me."<br/>
+        Bane   
 
   		</i></p>
 
@@ -99,7 +104,7 @@ class Landing extends Component {
 
 	      	<div className="text-monospace lpdn">
                <Typing  className="typewriter">
-                  <p id="landingbigtext"><mark className="highlight">Hello</mark> there!</p>
+                  <p id="landingbigtext"><mark className="highlight">梦</mark>想的力量</p>
               </Typing>
 
               {/*<p id="landingsmalltext">I'm Dami. Nice to meet you.</p>*/}

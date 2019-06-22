@@ -18,10 +18,11 @@ class Footer extends Component {
         d.setSeconds(80000);*/
 
         return (
-          <div id="footer">
+          <div id="footer" className="text-monospace">
           <a href="http://www.logospng.com/uefa-champions-league.html"><img src='rand/uefa.png' alt="uefa" width='50px'/></a>
           <span id="road"> UCL 2019 WINNER </span>
-           <a href="http://www.logospng.com/liverpool-logo-ndash-escudo-football-club-63909-png.html"><img src='rand/liverpool.png' alt="liverpool" width='50px'/></a>
+           <a href="http://www.logospng.com/liverpool-logo-ndash-escudo-football-club-63909-png.html"><img src='rand/liverpool.png' alt="liverpool" width='50px'/></a><br/>
+           <i id="road">(I'm Nigerian lol)</i>
 
           </div>
         );
