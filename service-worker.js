@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/damilola/precache-manifest.75b095245522949f02607f667e47074a.js"
+  "/damilola/precache-manifest.d3ea51db1b3035cc00e73165238edba5.js"
 );
 
 workbox.clientsClaim();
