@@ -88,7 +88,7 @@ const Quotes = () =>{
   return(
   		<p><i>
   		  "Oh, so you think darkness is your ally? But you merely adopted the dark. I was born in it, molded by it. <br/>
-        I didn’t see the light until I was already a man, by then to me it was only blinding. <br/>
+        I didn’t see the light until I was already a man, by then to me it was nothing but blinding. <br/>
         The shadows betray you because they belong to me."<br/>
         Bane   
 

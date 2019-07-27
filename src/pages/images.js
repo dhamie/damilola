@@ -35,7 +35,13 @@ class Images extends Component {
         item1: 'rand/lfc.PNG',
         item2: 'fff',
         item3: 'https://www.instagram.com/p/BxLSZ4rlAJv/'
+      },
+      {
+        item1: 'rand/firstwin.png',
+        item2: 'fff',
+        item3: '#'
       }
+
 
   	];
 
