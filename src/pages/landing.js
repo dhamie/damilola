@@ -19,6 +19,8 @@ Build your LEGACY"<br />
         And then... With the stones you've collected for me, create a new one.<br/>
         Teeming with life, but knows not what it has lost but only what it has been given. A grateful universe."<br/>
         Thanos        
+
+        power of dream mandarin(梦想的力量)
 */
 
 import React, { Component } from 'react';
@@ -104,7 +106,7 @@ class Landing extends Component {
 
 	      	<div className="text-monospace lpdn">
                <Typing  className="typewriter">
-                  <p id="landingbigtext"><mark className="highlight">梦</mark>想的力量</p>
+                  <p id="landingbigtext"><mark className="highlight">꿈</mark>의 힘</p>
               </Typing>
 
               {/*<p id="landingsmalltext">I'm Dami. Nice to meet you.</p>*/}
