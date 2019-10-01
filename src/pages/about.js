@@ -62,8 +62,8 @@ class About extends Component {
 	      		 <h1>About</h1>
 
 	      		 <h2>Hello, my name is Soyemi Damilola.</h2>
-        		<p>I am a learning front-end web and game developer.
-        		I am also a gamer that enjoys first person shooters games like 'Call of Duty' and 'Counter Strike'.
+        		<p>I am a beginner front-end web and mobile developer and game designer(beginner level designer). 
+        		I am also a gamer that enjoys first person shooters games like 'Call of Duty', 'Counter Strike' and most recently became a freak for 'Apex Legends'.
         		I enjoy having deep conversations with people and i also believe i originated from the star system 'Alpha Centauri'.</p>
 
 

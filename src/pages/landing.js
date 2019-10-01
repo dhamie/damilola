@@ -20,7 +20,7 @@ Build your LEGACY"<br />
         Teeming with life, but knows not what it has lost but only what it has been given. A grateful universe."<br/>
         Thanos        
 
-        power of dream mandarin(梦想的力量)
+        power of dream mandarin(梦想的力量) japanese(꿈 의 힘)
 */
 
 import React, { Component } from 'react';
@@ -106,10 +106,10 @@ class Landing extends Component {
 
 	      	<div className="text-monospace lpdn">
                <Typing  className="typewriter">
-                  <p id="landingbigtext"><mark className="highlight">꿈</mark>의 힘</p>
+                  <p id="landingbigtext"><mark className="highlight">151</mark>Rum</p>
               </Typing>
 
-              {/*<p id="landingsmalltext">I'm Dami. Nice to meet you.</p>*/}
+              <p id="landingsmalltext">One of the cool kids that designs and develops stuffs.</p>
               <p className="quote">
                     <p>Random quote</p>
                     <Quotes />
