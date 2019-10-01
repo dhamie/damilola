@@ -64,7 +64,7 @@ class About extends Component {
 	      		 <h2>Hello, my name is Soyemi Damilola.</h2>
         		<p>I am a beginner front-end web and mobile developer and game designer(beginner level designer). 
         		I am also a gamer that enjoys first person shooters games like 'Call of Duty', 'Counter Strike' and most recently became a freak for 'Apex Legends'.
-        		I enjoy having deep conversations with people and i also believe i originated from the star system 'Alpha Centauri'.</p>
+        		I am currently a Master of Science (MSc) student in Game Design and Development at the University of Limerick.</p>
 
 
         		<div className="container">
