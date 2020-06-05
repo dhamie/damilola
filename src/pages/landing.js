@@ -21,6 +21,11 @@ Build your LEGACY"<br />
         Thanos        
 
         power of dream mandarin(梦想的力量) japanese(꿈 의 힘)
+
+         "Oh, so you think darkness is your ally? But you merely adopted the dark. I was born in it, molded by it. <br/>
+        I didn’t see the light until I was already a man, by then to me it was nothing but blinding. <br/>
+        The shadows betray you because they belong to me."<br/>
+        Bane  
 */
 
 import React, { Component } from 'react';
@@ -86,13 +91,12 @@ const Contents =()=>{
 
 const Quotes = () =>{
   return(
-  		<p><i>
-  		  "Oh, so you think darkness is your ally? But you merely adopted the dark. I was born in it, molded by it. <br/>
-        I didn’t see the light until I was already a man, by then to me it was nothing but blinding. <br/>
-        The shadows betray you because they belong to me."<br/>
-        Bane   
+  		<p>
+  		  <mark className="highlight">BLACK</mark> is beautiful.<br/>
+        The symbol of <mark className="highlight">EXCELLENCE</mark>, <mark className="highlight">ELEGEANT</mark> and <mark className="highlight">BOLD</mark>. 
 
-  		</i></p>
+
+  		</p>
 
   	);
 }
