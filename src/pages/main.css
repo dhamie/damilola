@@ -66,7 +66,8 @@ a:hover{
 
 #landingbigtext{
 	color: white;
-	font-size: 9vmax;
+	font-size: 8vmax;
+	word-spacing: -40px;
 }
 
 #landingsmalltext{
@@ -84,7 +85,8 @@ a:hover{
 
 .highlight{
 	background: white;
-	color: #9F111F;
+	/*color: #9F111F;*/
+	color: black;
 }
 
 .row, .col-lg-4{

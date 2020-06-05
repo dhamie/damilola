@@ -106,10 +106,10 @@ class Landing extends Component {
 
 	      	<div className="text-monospace lpdn">
                <Typing  className="typewriter">
-                  <p id="landingbigtext"><mark className="highlight">151</mark>Rum</p>
+                  <p id="landingbigtext"><mark className="highlight">BLACK</mark> LIVES MATTER</p>
               </Typing>
 
-              <p id="landingsmalltext">One of the cool kids that designs and develops stuffs.</p>
+              
               <p className="quote">
                     <p>Random quote</p>
                     <Quotes />
@@ -124,3 +124,4 @@ class Landing extends Component {
 
 export default Landing;
 
+//<p id="landingsmalltext">One of the cool kids that designs and develops stuffs.</p>
