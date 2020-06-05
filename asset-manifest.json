@@ -1,15 +1,15 @@
 {
-  "main.css": "/damilola/static/css/main.c773cff7.chunk.css",
-  "main.js": "/damilola/static/js/main.76671525.chunk.js",
-  "main.js.map": "/damilola/static/js/main.76671525.chunk.js.map",
+  "main.css": "/damilola/static/css/main.bc064bf2.chunk.css",
+  "main.js": "/damilola/static/js/main.a202b239.chunk.js",
+  "main.js.map": "/damilola/static/js/main.a202b239.chunk.js.map",
   "runtime~main.js": "/damilola/static/js/runtime~main.36032dfa.js",
   "runtime~main.js.map": "/damilola/static/js/runtime~main.36032dfa.js.map",
   "static/css/2.877f2b49.chunk.css": "/damilola/static/css/2.877f2b49.chunk.css",
   "static/js/2.117fa15f.chunk.js": "/damilola/static/js/2.117fa15f.chunk.js",
   "static/js/2.117fa15f.chunk.js.map": "/damilola/static/js/2.117fa15f.chunk.js.map",
   "index.html": "/damilola/index.html",
-  "precache-manifest.f0c101795107181d047304d84ec07ecc.js": "/damilola/precache-manifest.f0c101795107181d047304d84ec07ecc.js",
+  "precache-manifest.72188952719e028fbba4debee52cf39a.js": "/damilola/precache-manifest.72188952719e028fbba4debee52cf39a.js",
   "service-worker.js": "/damilola/service-worker.js",
   "static/css/2.877f2b49.chunk.css.map": "/damilola/static/css/2.877f2b49.chunk.css.map",
-  "static/css/main.c773cff7.chunk.css.map": "/damilola/static/css/main.c773cff7.chunk.css.map"
+  "static/css/main.bc064bf2.chunk.css.map": "/damilola/static/css/main.bc064bf2.chunk.css.map"
 }
