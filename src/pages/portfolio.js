@@ -53,7 +53,7 @@ class Portfolio extends Component {
 			  
 			<a href ="https://dhamie.github.io/reactpages">React Pages</a><br/><br />
 			<video>
-				<source src="assets/burger_1.mp4" type="video/mp4"/>
+				<source src="rand/burger_1.mp4" type="video/mp4"/>
 				fff
 			</video>	
 	        <a href="https://github.com/dhamie">Github </a>
