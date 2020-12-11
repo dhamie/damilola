@@ -50,7 +50,12 @@ class Portfolio extends Component {
 	      </div><br/>
 	      <div className = "container-fluid">
 	      	<h1>Sites, Apps and Games</h1>
-	        loading...<br/>
+			  
+			<a href ="https://dhamie.github.io/reactpages">React Pages</a><br/><br />
+			<video>
+				<source src="assets/burger_1.mp4" type="video/mp4"/>
+				fff
+			</video>	
 	        <a href="https://github.com/dhamie">Github </a>
 	        <a href="https://drive.google.com/file/d/1zV1ctN7-3VuGk096vdV5p4BojZxj5GaX/view?usp=sharing">CV </a>
 	      </div>  

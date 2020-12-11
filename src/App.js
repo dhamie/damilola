@@ -11,8 +11,8 @@ class App extends Component {
       <div className="container-fluid">
         <Header />
         <Main />
-        
-      </div>
+         
+      </div> 
     );
   }
 }

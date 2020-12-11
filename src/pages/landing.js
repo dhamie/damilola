@@ -93,7 +93,7 @@ const Quotes = () =>{
   return(
   		<p>
   		  <mark className="highlight">BLACK</mark> is beautiful.<br/>
-        The symbol of <mark className="highlight">EXCELLENCE</mark>, <mark className="highlight">ELEGEANT</mark> and <mark className="highlight">BOLD</mark>. 
+        The symbol of <mark className="highlight">EXCELLENCE</mark>, <mark className="highlight">ELEGEANT</mark> and <mark className="highlight">BOLD</mark>. #ENDSARS
 
 
   		</p>

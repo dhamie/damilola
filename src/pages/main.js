@@ -14,8 +14,10 @@ const Main = () => {
 		 <Route exact path="/damilola/about" component={About} />
 		 <Route exact path="/damilola/portfolio" component={Portfolio} />
 		 <Route exact path="/damilola/images" component={Images} />
-		</Switch>
+		</Switch> 
 	);
 }
+
+
 
 export default Main;
