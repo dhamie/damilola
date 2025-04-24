@@ -12,7 +12,7 @@
     "react-countdown-now": "^2.1.1",
     "react-dom": "^16.10.1",
     "react-masonry-component": "^6.2.1",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "^2.1.8",
     "react-typing-animation": "^1.6.2",
     "react-typist": "^2.0.5",
